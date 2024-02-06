@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/AppIcon.png                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : My Love                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The number 1 app for couples. This unique application, built on artificial intelligence 🤖💕, is specially designed for loving couples like us. Here we can create our own stories 💑📖, celebrate every moment, receive rewards for completing fun tasks 🎁🌈, communicate in a private chat 💬🔒, and even track the statistics of our relationship on graphs 📊❤️. The built-in artificial assistant will help us resolve any disputes and give advice 🌟💡. Let's join this amazing app and make our relationship even more magical! Click the link and let's start our adventure in the world of love 💞🌍.
+app_description                           : The number 1 app for couples. Designed for loving couples like us. Create own stories 💑📖, celebrate every moment, receive rewards for completing fun tasks 🎁🌈, communicate in a private chat 💬🔒, and even track the statistics of relationship on graphs 📊❤️.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
